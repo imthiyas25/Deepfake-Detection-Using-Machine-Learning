@@ -16,12 +16,3 @@ Python 3.7+
 TensorFlow or PyTorch
 OpenCV
 Flask (for deployment)
-Installation
-Clone the repository:
-git clone https://github.com/Deepfake-Detection-Using-Machine-Learning/deepfake-detection.git
-cd deepfake-detection
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r deployment/requirements.txt
