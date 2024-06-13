@@ -1,18 +1,9 @@
-# Deepfake-Detection-Using-Machine-Learning
-Project Overview
+📚 Project Overview
+Welcome to the Deepfake Detection project! This repository contains the implementation of a machine learning-based system designed to detect deepfake videos. Deepfakes refer to synthetic media in which a person in an existing image or video is replaced with someone else's likeness. This project leverages advanced machine learning techniques to analyze and identify these manipulated media files, ensuring the authenticity of visual content.
 
-Subscribe Welcome to the Deepfake Detection project! A Machine Learning system to detect deepfakes (Deepfake detect) in this repository, What are deepfakes and how do they work? This project helps analyze these manipulated media files using advanced machine learning algorithms, thereby verifying the authenticity of visual content.
-
-Features
-
-Data Preprocessing - Scripts to clean the dataset, sort into folders containing only one person, and compute the faces bounding boxes and landmarks.
-
-After preparing the data, the data issues were fixed, the real faces and deepfake faces were uploaded into the model for implementation done on the 3 machine learning models to detect the deepfakes using CNN (Convolutional Neural Networks).
-
-Evaluation Metrics: Components used to check the performance of our model through some metrics such as accuracy, precision, recall, F1-score.
-
-Prerequisites:
-Python 3.7+
-TensorFlow or PyTorch
-OpenCV
-Flask (for deployment)
+✨ Features
+🔍 Data Preprocessing: Scripts to clean and preprocess the dataset, including face extraction and alignment.
+🧠 Model Training: Implementation of various machine learning models, including Convolutional Neural Networks (CNNs), to detect deepfakes.
+📊 Evaluation Metrics: Tools to evaluate the model's performance using metrics such as accuracy, precision, recall, and F1-score.
+📈 Visualization: Code to visualize training progress, model performance, and detection results.
+🚀 Deployment: Instructions and scripts to deploy the trained model for real-time deepfake detection.
