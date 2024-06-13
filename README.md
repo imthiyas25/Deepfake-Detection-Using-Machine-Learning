@@ -1,3 +1,5 @@
+🕵️‍♂️ Deepfake Detection using Machine Learning
+
 📚 Project Overview
 
 Welcome to the Deepfake Detection project! This repository contains the implementation of a machine learning-based system designed to detect deepfake videos. Deepfakes refer to synthetic media in which a person in an existing image or video is replaced with someone else's likeness. This project leverages advanced machine learning techniques to analyze and identify these manipulated media files, ensuring the authenticity of visual content.
