@@ -42,33 +42,3 @@
 │── requirements.txt        # Dependencies
 │── Installer.zip           # Deployment files
 │── README.md               # Project documentation
-🚀 Installation & Setup
-🔧 Step 1: Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/imthiyas25/Deepfake-Detection-Using-Machine-Learning.git
-cd Deepfake-Detection-Using-Machine-Learning
-🔧 Step 2: Install Dependencies
-sh
-Copy
-Edit
-pip install -r requirements.txt
-🔧 Step 3: Run the Jupyter Notebook
-sh
-Copy
-Edit
-jupyter notebook Deepfake_detection.ipynb
-📊 Model Training & Evaluation
-The system uses Convolutional Neural Networks (CNNs) trained on deepfake datasets.
-
-📌 Metrics Used:
-Accuracy – Measures correct predictions
-
-Precision & Recall – Detects deepfake classification performance
-
-F1-score – Balances precision & recall
-
-Sample Training Progress:
-📉 Loss Curve
-📈 Accuracy Graphs
